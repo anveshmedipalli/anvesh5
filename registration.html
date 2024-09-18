@@ -29,8 +29,7 @@ Course :
 <option value="M.Tech">M.Tech</option>  
 </select>  
   
-<br>  
-<br>  
+ 
 <label>   
 Gender :  
 </label><br>  
